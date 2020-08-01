@@ -1,6 +1,6 @@
 This is complementary code for the video series that explains the implementation of yolo-v3 from scratch, [available here](https://www.youtube.com/playlist?list=PLbMqOoYQ3MxxArhAqvki_WoWBTCc8fDHG).
 .
-[My channel](http://www.youtube.com/channel/UCgpckFNtZEOSjPFpQf-Kn8w) for cutting edge deep learning projects.
+
 
 # Yolo-V3
 
